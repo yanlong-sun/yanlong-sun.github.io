@@ -1,5 +1,9 @@
 <template>
-  <router-view></router-view>
+  <div>
+    <a href="https://vuejs.org/" target="_blank">
+      <img src="../assets/vue.svg" class="logo vue" alt="Vue logo" />
+    </a>
+  </div>
 </template>
 
 <script setup></script>

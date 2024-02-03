@@ -18,5 +18,10 @@
     "@vitejs/plugin-vue": "^4.5.2",
     "push-dir": "^0.4.1",
     "vite": "^5.0.8"
+  },
+  "prettier": {
+    "trailingComma": "none",
+    "semi": false,
+    "singleQuote": true
   }
 }
